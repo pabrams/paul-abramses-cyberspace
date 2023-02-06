@@ -1,9 +1,9 @@
-# Markbind Default Theme
+# MarkBind Default Theme
 
-Deploy to netlify to a new repository using the button below
+Deploy to Netlify to a new repository using the button below
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/MarkBind/init-typical-netlify)
 
 # Getting Started
 
-Visit Markbind's [User Guide](https://markbind.org/userGuide/index.html) to get started on your Markbind site stored in `your_site`.
+Visit MarkBind's [User Guide](https://markbind.org/userGuide/index.html) to get started on your MarkBind site stored in `your_site`.
