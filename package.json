@@ -3,7 +3,7 @@
     "version": "4.0.2",
     "description": "Default Template for MarkBind",
     "dependencies": {
-        "markbind-cli": "5.4.0"
+        "markbind-cli": "5.5.2"
     },
     "scripts": {
         "serve": "markbind serve your_site",
